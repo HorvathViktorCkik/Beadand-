@@ -1,3 +1,17 @@
+body {
+    background-image: url(hatterkep.webp);
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 main {
-    background-image: url();
+    padding: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin-bottom: 300px;
 }
