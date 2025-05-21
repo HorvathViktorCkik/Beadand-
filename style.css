@@ -1,6 +1,7 @@
 body {
     background-image: url(Kepek/hatterkep.webp);
     background-repeat: no-repeat;
+    background-size: auto;
     color: aliceblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -11,4 +12,28 @@ main {
 
 p {
     margin-bottom: 50px;
+}
+
+#kartya {
+    height: 500px;
+    width: auto;
+}
+
+#thumbnail {
+    height: 120px;
+}
+
+.card {
+    margin-top: 300px;
+}
+
+#szoveg {
+    margin-top: 500px;
+    margin-left: 500px;
+    font-weight: bold;
+    text-align: right;
+}
+
+#elkoszono {
+    color: black;
 }
