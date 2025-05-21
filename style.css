@@ -1,11 +1,12 @@
 body {
-    background-image: url(hatterkep.webp);
+    background-image: url(Kepek/hatterkep.webp);
+    background-repeat: no-repeat;
     color: darkblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 main {
-    padding: 200px;
+    padding: 100px;
 }
 
 a {
@@ -13,5 +14,5 @@ a {
 }
 
 p {
-    margin-bottom: 300px;
+    margin-bottom: 50px;
 }
