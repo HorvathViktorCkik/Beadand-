@@ -1,18 +1,18 @@
 body {
     background-image: url(Kepek/hatterkep.webp);
     background-repeat: no-repeat;
-    color: darkblue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 main {
     padding: 100px;
 }
 
-a {
-    text-decoration: none;
-}
-
 p {
     margin-bottom: 50px;
+}
+
+#card {
+    width: 100px;
 }
