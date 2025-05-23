@@ -38,3 +38,18 @@ p {
     color: black;
     text-align: center;
 }
+
+.jegyek {
+    margin-top: 150px;
+    width: 600px;
+    margin-left: 550px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    color: black;
+}
