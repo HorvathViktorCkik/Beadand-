@@ -38,3 +38,67 @@ p {
     color: black;
     text-align: center;
 }
+
+table {
+    margin-top: 200px;
+    width: 700px;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0.719);
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+}
+
+th {
+    padding-bottom: 50px;
+}
+
+.nap {
+    padding-right: 200px;
+}
+
+#hatteroldal2 {
+    background-image: url(Kepek/hatter_tigris.jpg);
+    background-size: cover;
+}
+
+#nyitvatartasfelirat {
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+    margin-right: 50px;
+}
+
+#felhivas {
+    color: black;
+    font-size: x-large;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.705);
+} 
+
+#felhivas2 {
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+.rolunk {
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: 700px;
+    word-spacing: 5px;
+    background-color: rgba(255, 255, 255, 0.486);
+    color: black;
+}
+
+#rolunk2 {
+    font-size: xx-large;
+}
+
+#oldal5 {
+    background-image: url(Kepek/Állatos-Háttérkép-párduc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
