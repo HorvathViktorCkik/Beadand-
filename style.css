@@ -29,9 +29,11 @@ p {
 
 #szoveg {
     margin-top: 500px;
-    margin-left: 500px;
     font-weight: bold;
     text-align: right;
+    color: black;
+    background-color: rgb(255, 255, 255, 0.5);
+
 }
 
 #elkoszono {
@@ -107,7 +109,7 @@ th {
     background-size: cover;
 }
 
-#jegyszoveg {
+.jegyszoveg {
     color: black;
 }
 
@@ -133,7 +135,7 @@ th {
 
 .szoveg {
     padding: 60px 20px;
-    text-align: center justify;
+    text-align:justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: bisque;
     font-weight: 700;
@@ -146,7 +148,7 @@ th {
 
 .szoveg2 {
     padding: 60px 20px;
-    text-align: center justify;
+    text-align:justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     font-weight: 700;
@@ -170,4 +172,9 @@ th {
     text-align: center;
     line-height: 1.6;
     color: black;
+}
+
+.table {
+    margin-top: 0px;
+    margin-bottom: 200px;
 }
